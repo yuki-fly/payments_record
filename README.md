@@ -22,4 +22,7 @@ com.icss.payments.record
 -------------------------------FileAndConsoleTest.java 文件预输入以及控制台输入输出测试类
 
 运行结果;
+文件预输入以及控制台输入输出测试类:
 ![1624721426(1)](https://user-images.githubusercontent.com/67332434/123518004-a1278800-d6d6-11eb-91fd-653666de73d9.png)
+控制台输入输出测试类
+![image](https://user-images.githubusercontent.com/67332434/123518410-66265400-d6d8-11eb-8a48-5c41404e14a9.png)
